@@ -175,7 +175,7 @@ p {
 
 
 @media (max-width: 992px) {
-  #title {
+  #title .container-fluid{
     text-align: center;
   }
   .iphone-image {
